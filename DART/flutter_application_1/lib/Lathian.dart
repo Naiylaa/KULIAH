@@ -13,4 +13,5 @@ void main() {
   print('Prodi : $prodi');
   print('Mahasiswa ini statusnya : $isActive');
 
+
 }
